@@ -1,0 +1,86 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║         ONLINE RETAIL — BUSINESS INSIGHTS & RECOMMENDATIONS REPORT         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+PREPARED BY  : Sales Analytics Team
+DATA PERIOD  : December 2010 – December 2011
+CLEAN RECORDS: 397,884 transactions
+
+─────────────────────────────────────────────────────────────────────────────
+ KPI SUMMARY
+─────────────────────────────────────────────────────────────────────────────
+  ▸ Total Revenue      : £8,911,407.90
+  ▸ Total Orders       : 18,532
+  ▸ Unique Customers   : 4,338
+  ▸ Unique Products    : 3,665
+  ▸ Average Order Value: £480.87
+
+─────────────────────────────────────────────────────────────────────────────
+ KEY INSIGHTS
+─────────────────────────────────────────────────────────────────────────────
+
+1. REVENUE TREND — Strong Q4 Seasonality
+   • Revenue peaks sharply in November (£1.2M) driven by Christmas/holiday
+     gifting. This is consistent across both years observed.
+   • Q1 (Jan–Feb) shows a post-holiday dip — the business must plan inventory
+     and cash flow accordingly.
+
+2. TOP PRODUCTS — Giftware & Home Décor Dominate
+   • The top 10 revenue-generating products are almost entirely home décor,
+     gifts, and novelty items (e.g., heart holders, lanterns, bunting).
+   • A small SKU set drives disproportionate revenue — classic 80/20 pattern.
+
+3. GEOGRAPHIC CONCENTRATION — High UK Dependency
+   • The United Kingdom accounts for the vast majority of revenue (>80%).
+   • Netherlands, EIRE (Ireland), Germany, and France are the top 4
+     international markets but remain relatively small contributors.
+   • Significant growth opportunity exists in expanding EU market reach.
+
+4. CUSTOMER BASE — High One-Time Buyers
+   • The order frequency distribution shows a large share of customers who
+     ordered only once or twice.
+   • Returning customers are highly valuable — top 10 customers alone
+     contribute substantial revenue.
+
+5. ORDER PATTERNS — Weekday Business
+   • Thursday and Tuesday generate the most revenue, with Sunday being
+     nearly inactive.
+   • This confirms a B2B wholesale purchasing pattern (retailers buying
+     stock mid-week for weekend resale).
+
+─────────────────────────────────────────────────────────────────────────────
+ ACTIONABLE RECOMMENDATIONS
+─────────────────────────────────────────────────────────────────────────────
+
+  ✔ SEASONAL CAMPAIGNS
+    Launch targeted email/ad campaigns in October to capitalise on the
+    November peak. Pre-bundle gift sets of top-selling home décor items.
+
+  ✔ CUSTOMER RETENTION (Reduce One-Time Buyers)
+    Implement a loyalty or rewards programme. Send personalised follow-up
+    offers 30–60 days after a customer's first purchase.
+
+  ✔ INTERNATIONAL EXPANSION
+    Prioritise Netherlands, Germany, and France with localised catalogues
+    and EU shipping promotions. These markets already show traction.
+
+  ✔ VIP CUSTOMER PROGRAMME
+    Identify and personally manage the top 50 customers by revenue.
+    They represent low churn risk and high lifetime value.
+
+  ✔ SKU RATIONALISATION
+    Review low-revenue products and consider discontinuing or bundling
+    slow movers. Focus procurement spend on the top 100 SKUs.
+
+  ✔ MIDWEEK PROMOTIONS
+    Since Thursday is the peak day, run flash sales or bundle deals on
+    Mondays/Tuesdays to smooth order volume across the week.
+
+─────────────────────────────────────────────────────────────────────────────
+ DASHBOARD FILES
+─────────────────────────────────────────────────────────────────────────────
+  Page 1: retail_dashboard_page1.png  (KPIs, Trends, Products, Markets)
+  Page 2: retail_dashboard_page2.png  (Customer behaviour, Day patterns)
+
+════════════════════════════════════════════════════════════════════════════════
